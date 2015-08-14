@@ -23,7 +23,7 @@ Se utiliza solo dos botones para jugar:
 
 # Registro
 
-Para registrar tus puntuaciones de todas las partidas que has jugado, tendrás que registrarte e iniciar sesión. Cuando te hayas logueado, podras ver en la parte superior derecha tu nombre de usuario.
+Para registrar tus puntuaciones tendrás que registrarte e iniciar sesión. Cuando te hayas logueado, podras ver en la parte superior derecha tu nombre de usuario.
 
 # Score
 
