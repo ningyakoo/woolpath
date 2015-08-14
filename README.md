@@ -21,6 +21,10 @@ Se utiliza solo dos botones para jugar:
   - Botón izquierdo del ratón: Subes al personaje. Tendrás que dejarlo presionado para subirlo hasta donde veas conveniente. Sueltado para que baje automáticamente. 
   - Intro/Enter: Teletransporta al personaje hacia la siguiente esfera. Presiona esta tecla cuando veas que el personaje esta encima de la esfera para pasar a la siguiente y seguir el camino.
 
+# Registro
+
+Para registrar tus puntuaciones de todas las partidas que has jugado, tendrás que registrarte e iniciar sesión. Cuando te hayas logueado, podras ver en la parte superior derecha tu nombre de usuario.
+
 # Score
 
 La puntuación obtenida en la partida se reflejará en el panel de GAME OVER cuando te hayas quedado sin energía. 
@@ -34,3 +38,7 @@ Podrás ver el top 10 global en el apartado High Scores del menú.
 
 En el panel de GAME OVER podrás compartir por Facebook y Twitter la puntuación que has sacado, tu mejor puntuación y el Rango obtenido en la partida.
 Nota: Aún no se puede compartir por Twitter, está en desarrollo.
+
+# Accesibilidad
+
+Podrás acceder al juego oficial con la siguiente URL: http://woolpath.esy.es/
